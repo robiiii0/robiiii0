@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robiiii0
-- 👀 I’m interested in C, CSS, HTML, Python
-- 🌱 I’m currently learning C
+- 👀 I’m interested in C, Next-js, JS, React-native
+- 🌱 I’m currently learning React-native
 - 💞️ I’m looking to collaborate with everyone
 
 <!---
