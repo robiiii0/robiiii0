@@ -20,7 +20,6 @@
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/robin-chabert-863105232/)
 
 <br><br>
